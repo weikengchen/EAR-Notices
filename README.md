@@ -15,3 +15,4 @@ The repository contains a number of notices for open-source projects:
 | The ElGamal Encryption Library from Ristretto [\[link\]](https://github.com/oblivious-file-sharing/libristretto-elgamal) | [2020-06-22-libristretto-elgamal.md](./2020-06-22-libristretto-elgamal.md) |
 | The Paillier Encryption Library with Constant-Time Decryption [\[link\]](https://github.com/oblivious-file-sharing/libpaillier-with-constant-time-dec) | [2020-06-22-libpaillier-with-constant-time-dec.md](./2020-06-22-libpaillier-with-constant-time-dec.md) |
 | The Circuit Collections for TLS-in-SMPC [\[link\]](https://github.com/n-for-1-auth/circuits) | [2021-04-05-n-for-1-auth-circuits.md](./2021-04-05-n-for-1-auth-circuits.md) |
+| The EMP-ZK fork for prime p=2^{62}-2^{16}+1 [\[link\]](https://github.com/ucb-holmes/emp-zk) | [2021-09-23-ucb-holmes-emp-zk.md](./2021-09-23-ucb-holmes-emp-zk.md) |
