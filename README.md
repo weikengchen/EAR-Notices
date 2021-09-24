@@ -21,7 +21,7 @@ The repository contains a number of notices for open-source projects:
 
 The Bureau of Industry and Security has modified the EAR notification rules, as shown in [this Federal Register's document](https://www.federalregister.gov/documents/2021/03/29/2021-05481/export-administration-regulations-implementation-of-wassenaar-arrangement-2019-plenary-decisions).
 
-Now, only `non-standard cryptography` needs to be reported, as defined as follows:
+Now, only "non-standard cryptography" needs to be reported, as defined as follows:
 
 ```
 Means any implementation of “cryptography” involving the incorporation or use of proprietary or unpublished cryptographic functionality, including encryption algorithms or protocols that have not been adopted or approved by a duly recognized international standards body (e.g., IEEE, IETF, ISO, ITU, ETSI, 3GPP, TIA, and GSMA) and have not otherwise been published.
